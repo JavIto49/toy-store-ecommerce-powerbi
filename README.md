@@ -3,14 +3,20 @@
 ## Dashboard Preview
 
 ### Executive Overview
+
 ![Executive Overview](Executive_Overview.png)
 
+---
+
 ### Marketing Performance
+
 ![Marketing Performance](Marketing_Performance.png)
 
-### Product Performance
-![Product Performance](Product_Performance.png)
+---
 
+### Product Performance
+
+![Product Performance](Product_Performance.png)
 ---
 
 ## Project Overview
