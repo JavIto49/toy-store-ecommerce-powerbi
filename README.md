@@ -5,11 +5,11 @@ Project Overview
 This project analyzes e-commerce performance across marketing, product, and overall business metrics using Power BI.
 
 The dashboard focuses on:
-	•	revenue and order performance
-	•	marketing channel effectiveness
-	•	conversion behavior over time
-	•	product-level profitability and risk
-	•	revenue concentration across products
+	•	Revenue and order performance
+	•	Marketing channel effectiveness
+	•	Conversion behavior over time
+	•	Product-level profitability and risk
+	•	Revenue concentration across products
 
 The goal was to build a multi-page dashboard that supports both executive reporting and deeper analysis.
 
@@ -18,10 +18,10 @@ The goal was to build a multi-page dashboard that supports both executive report
 Dataset
 
 The dataset includes:
-	•	website sessions and traffic sources
-	•	customer orders and order items
-	•	product information
-	•	refund data
+	•	Website sessions and traffic sources
+	•	Customer orders and order items
+	•	Product information
+	•	Refund data
 
 Key fields include:
 	•	website_session_id, order_id, product_id
@@ -59,25 +59,25 @@ Dashboard Pages
 
 Executive Overview
 	•	KPI summary of revenue, orders, conversion, refund rate, and product concentration
-	•	revenue by channel and product
-	•	conversion trend
-	•	key business insight
+	•	Revenue by channel and product
+	•	Conversion trend
+	•	Key business insight
 
 ⸻
 
 Marketing Performance
-	•	traffic and conversion metrics
-	•	revenue by channel
-	•	conversion rate by channel
-	•	sessions and orders over time
+	•	Traffic and conversion metrics
+	•	Revenue by channel
+	•	Conversion rate by channel
+	•	Sessions and orders over time
 
 ⸻
 
 Product Performance
-	•	revenue and profit by product
-	•	product profit margin
-	•	refund analysis
-	•	top product contribution and risk
+	•	Revenue and profit by product
+	•	Product profit margin
+	•	Refund analysis
+	•	Top product contribution and risk
 
 ⸻
 
