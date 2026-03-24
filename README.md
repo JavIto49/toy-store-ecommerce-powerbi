@@ -1,5 +1,18 @@
 # Toy Store E-Commerce Performance Analysis (Power BI)
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Executive_Overview.png)
+
+### Marketing Performance
+![Marketing Performance](Marketing_Performance.png)
+
+### Product Performance
+![Product Performance](Product_Performance.png)
+
+---
+
 ## Project Overview
 This project analyzes e-commerce performance across marketing, product, and overall business metrics using Power BI.
 
@@ -99,18 +112,5 @@ This structure enables both channel attribution and product-level analysis.
 - Power BI  
 - DAX  
 - Power Query  
-
----
-
-## Dashboard Preview
-
-### Executive Overview
-![Executive Overview](Executive_Overview.png)
-
-### Marketing Performance
-![Marketing Performance](Marketing_Performance.png)
-
-### Product Performance
-![Product Performance](Product_Performance.png)
 
 ---
